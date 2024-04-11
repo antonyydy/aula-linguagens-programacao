@@ -1,4 +1,3 @@
-
 while True:
     try:
         A = int(input())

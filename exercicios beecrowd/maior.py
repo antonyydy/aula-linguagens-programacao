@@ -1,4 +1,3 @@
-
 entrada = str(input())
 entrada = entrada.split()
 a = int(entrada[0])
